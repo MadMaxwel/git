@@ -1,0 +1,17 @@
+=ROzOchLY&Tr1+ath8bRe
+
+	Criando primeiro repositório
+		git init Primeiro_repositorio: cria uma pasta e inicia um repositório.
+
+		git add:
+
+		git commit:
+
+		git config --global user.name MadMaxwel
+
+		gitconfig --global user.email 
+
+		git log: mostra os commits realizados
+
+
+
