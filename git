@@ -3,15 +3,22 @@
 	Criando primeiro repositório
 		git init Primeiro_repositorio: cria uma pasta e inicia um repositório.
 
-		git add:
+		git add . : adiciona todos os arquivos ainda não 					adicionados
 
 		git commit:
+			-m "FAZER o COMMIT AQUI"
 
 		git config --global user.name MadMaxwel
 
 		gitconfig --global user.email 
 
 		git log: mostra os commits realizados
+
+		git status: status do repositório
+		git log: mostra todos os comentario e a data deles
+		git add . : adiciona os novos elementos
+		git commit: comentarios
+		git push: Sincroniza os arquivos.
 
 
 
