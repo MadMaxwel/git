@@ -21,4 +21,4 @@
 		git push: Sincroniza os arquivos.
 
 
-
+		git diff: mostra diferença entre duas coisas
