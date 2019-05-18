@@ -26,8 +26,11 @@
 
 		git pull: serve para baixar as atualizações presentes que outros contribuintes fizeram
 
+		git checkout <commit>: traz todo o projeto até determinado commit
+			     HEAD -- : apaga todas as novas alterações em estado pronto, não enviado 
+			     --      : apaga todas as novas alterações amtes de estado pronto
 
-
+		git revert <commit> :Ele faz um commit que desfaz um commit 
 
 
 
